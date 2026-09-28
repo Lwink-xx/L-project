@@ -1,0 +1,12 @@
+[
+ {
+  "name": "CPU_USAGE",
+  "path": "/packages/tools/cpu_usage",
+  "ver": "latest"
+ },
+ {
+  "name": "AHT10",
+  "path": "/packages/peripherals/sensors/aht10",
+  "ver": "latest"
+ }
+]
